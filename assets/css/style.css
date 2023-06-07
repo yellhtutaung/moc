@@ -55,7 +55,7 @@
     margin: 200px 0 0 50px;
 }
 .slider-btn-text-control {
-    margin: 100px 0 0 50px;
+    margin: 50px 0 0 0px;
     padding: 25px;
     color: #5D310E;
     border-radius: 30px !important;
@@ -97,9 +97,9 @@
 }
 .theme-title-text {
     color: #70461E;
-    font-weight: 700;
+    font-weight: 500;
     font-family: "Pangram";
-    font-size: 30px;
+    font-size: 35px;
 }
 .model-container {
     position: relative;
@@ -152,6 +152,9 @@
     }
     .mt-100 {
         margin-top: 100px !important;
+    }
+    .lg-slider-font-60{
+        font-size: 60px!important;
     }
 }
 
