@@ -126,6 +126,10 @@
     height: auto;
     border-radius: 15px;
 }
+/*div .item{*/
+/*    background: red;*/
+/*    border-radius: 15px !important;*/
+/*}*/
 .op-05 {
     opacity: 0.5;
 }
@@ -157,4 +161,6 @@
         font-size: 60px!important;
     }
 }
-
+input.theme-input:focus {
+    color: #70461E;
+}
